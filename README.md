@@ -1,5 +1,8 @@
 <h1>All About Me Page</h1>
 
+<hr>
+<a href="https://bradenloose.github.io/final/About.html">My Portfolio</a>
+
 <ul>
 <li>My first about page is facts about me</li>
 <img src="images/page1.PNG">
